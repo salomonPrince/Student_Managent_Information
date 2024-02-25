@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1658768196 source:c:\users\pc\desktop\information programmer analyst course\programming and algorithm\compiling problems\this_is_project2\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<Windows.h>
+
